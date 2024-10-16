@@ -1,0 +1,19 @@
+.PropsMessage {
+    color: brown;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Message {
+    display: flex;
+justify-content: center;
+}
+.Message-box {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    box-shadow: 1px 1px 5px 5px #929292;
+}
